@@ -1,0 +1,8 @@
+.vscode-test
+*.vsix
+.DS_Store
+*.log
+*~
+node_modules
+out
+*tsconfig.tsbuildinfo

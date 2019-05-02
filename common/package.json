@@ -1,0 +1,13 @@
+{
+    "name": "jspiker-so-vscode-baseurl-common",
+    "description": "jspiker-so-vscode-baseurl-common",
+    "publisher": "Jarrett Spiker",
+    "repository": {},
+    "version": "0.0.1",
+    "engines": {
+        "node": "*"
+    },
+    "devDependencies": {},
+    "dependencies": {},
+    "scripts": {}
+}

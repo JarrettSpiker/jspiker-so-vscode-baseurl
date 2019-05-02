@@ -1,0 +1,24 @@
+{
+	"compilerOptions": {
+		"target": "es6",
+		"module": "commonjs",
+		"moduleResolution": "node",
+		"sourceMap": true,
+		"outDir": "../out/common/",
+		"rootDir": "src",
+		"tsBuildInfoFile" : "./common.tsbuildinfo",
+		"lib": ["es6"],
+		"composite": true,
+		"baseUrl": "../out/",
+		"paths": {
+			"*" : [
+				"*",
+				"../common/node_modules/*"
+			]
+		}
+	},
+	"include": [
+		"src"
+	],
+	"exclude": ["node_modules", ".vscode-test"]
+}

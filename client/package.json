@@ -1,0 +1,17 @@
+{
+    "name": "jspiker-so-vscode-baseurl-client",
+    "displayName": "jspiker-so-vscode-baseurl-client",
+    "description": "jspiker-so-vscode-baseurl-client",
+    "publisher": "Jarrett Spiker",
+    "repository": {},
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.32.0"
+    },
+    "devDependencies": {
+        "@types/node": "^11.13.0",
+        "typescript": "^3.4.1",
+        "vscode": "^1.1.28"
+    },
+    "dependencies": {}
+}

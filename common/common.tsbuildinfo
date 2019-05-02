@@ -1,0 +1,118 @@
+{
+  "program": {
+    "fileInfos": {
+      "/users/jspiker/repos/jspiker-so-vscode-baseurl/node_modules/typescript/lib/lib.es5.d.ts": {
+        "version": "c8665e66018917580e71792b91022bcaf53fb946fab4aaf8dfb0738ed564db88",
+        "signature": "c8665e66018917580e71792b91022bcaf53fb946fab4aaf8dfb0738ed564db88"
+      },
+      "/users/jspiker/repos/jspiker-so-vscode-baseurl/node_modules/typescript/lib/lib.es2015.d.ts": {
+        "version": "7994d44005046d1413ea31d046577cdda33b8b2470f30281fd9c8b3c99fe2d96",
+        "signature": "7994d44005046d1413ea31d046577cdda33b8b2470f30281fd9c8b3c99fe2d96"
+      },
+      "/users/jspiker/repos/jspiker-so-vscode-baseurl/node_modules/typescript/lib/lib.es2015.core.d.ts": {
+        "version": "384f66a3422d80014c51de2682159bb26f1e35854029880ccd5f6d1f00e6a36d",
+        "signature": "384f66a3422d80014c51de2682159bb26f1e35854029880ccd5f6d1f00e6a36d"
+      },
+      "/users/jspiker/repos/jspiker-so-vscode-baseurl/node_modules/typescript/lib/lib.es2015.collection.d.ts": {
+        "version": "dd94d8ef48c562389eb58af8df3a3a34d11367f7c818192aa5f16470d469e3f0",
+        "signature": "dd94d8ef48c562389eb58af8df3a3a34d11367f7c818192aa5f16470d469e3f0"
+      },
+      "/users/jspiker/repos/jspiker-so-vscode-baseurl/node_modules/typescript/lib/lib.es2015.generator.d.ts": {
+        "version": "828413486bdcaa342558e8e4570b1b287b776cb61b4b70b0214bd10c5d9a94c3",
+        "signature": "828413486bdcaa342558e8e4570b1b287b776cb61b4b70b0214bd10c5d9a94c3"
+      },
+      "/users/jspiker/repos/jspiker-so-vscode-baseurl/node_modules/typescript/lib/lib.es2015.iterable.d.ts": {
+        "version": "4d1f39313a169b8599b8817688f504b56ba8204c2ebafd03f66ff77ddb1899a4",
+        "signature": "4d1f39313a169b8599b8817688f504b56ba8204c2ebafd03f66ff77ddb1899a4"
+      },
+      "/users/jspiker/repos/jspiker-so-vscode-baseurl/node_modules/typescript/lib/lib.es2015.promise.d.ts": {
+        "version": "7c07d934680d0e33275a44d22fb11a4ff31d46c8c26a8d056828a478753f1efe",
+        "signature": "7c07d934680d0e33275a44d22fb11a4ff31d46c8c26a8d056828a478753f1efe"
+      },
+      "/users/jspiker/repos/jspiker-so-vscode-baseurl/node_modules/typescript/lib/lib.es2015.proxy.d.ts": {
+        "version": "5e72f949a89717db444e3bd9433468890068bb21a5638d8ab15a1359e05e54fe",
+        "signature": "5e72f949a89717db444e3bd9433468890068bb21a5638d8ab15a1359e05e54fe"
+      },
+      "/users/jspiker/repos/jspiker-so-vscode-baseurl/node_modules/typescript/lib/lib.es2015.reflect.d.ts": {
+        "version": "f5b242136ae9bfb1cc99a5971cccc44e99947ae6b5ef6fd8aa54b5ade553b976",
+        "signature": "f5b242136ae9bfb1cc99a5971cccc44e99947ae6b5ef6fd8aa54b5ade553b976"
+      },
+      "/users/jspiker/repos/jspiker-so-vscode-baseurl/node_modules/typescript/lib/lib.es2015.symbol.d.ts": {
+        "version": "9ae2860252d6b5f16e2026d8a2c2069db7b2a3295e98b6031d01337b96437230",
+        "signature": "9ae2860252d6b5f16e2026d8a2c2069db7b2a3295e98b6031d01337b96437230"
+      },
+      "/users/jspiker/repos/jspiker-so-vscode-baseurl/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts": {
+        "version": "3e0a459888f32b42138d5a39f706ff2d55d500ab1031e0988b5568b0f67c2303",
+        "signature": "3e0a459888f32b42138d5a39f706ff2d55d500ab1031e0988b5568b0f67c2303"
+      },
+      "/users/jspiker/repos/jspiker-so-vscode-baseurl/common/src/commonfile.ts": {
+        "version": "f93681a8baa793836d6df5bed2759d07f94b69c4608773667b3cb608d1b542c8",
+        "signature": "c67b3acce79700b4ae3a69affc408a39132d1a6e3dd5e4566343616e1e2d397b"
+      },
+      "/users/jspiker/repos/jspiker-so-vscode-baseurl/node_modules/@types/node/inspector.d.ts": {
+        "version": "312541b24bc94fa90916b9197028248f633554269363610207868e37103b7fee",
+        "signature": "312541b24bc94fa90916b9197028248f633554269363610207868e37103b7fee"
+      },
+      "/users/jspiker/repos/jspiker-so-vscode-baseurl/node_modules/@types/node/index.d.ts": {
+        "version": "b783c5de4eec88a6274845bb9a8c3483db133777bc4a1e2b48d82e68b5b8e8fe",
+        "signature": "b783c5de4eec88a6274845bb9a8c3483db133777bc4a1e2b48d82e68b5b8e8fe"
+      }
+    },
+    "options": {
+      "target": 2,
+      "module": 1,
+      "moduleResolution": 2,
+      "sourceMap": true,
+      "outDir": "/Users/jspiker/repos/jspiker-so-vscode-baseurl/out/common/",
+      "rootDir": "/Users/jspiker/repos/jspiker-so-vscode-baseurl/common/src",
+      "tsBuildInfoFile": "/Users/jspiker/repos/jspiker-so-vscode-baseurl/common/common.tsbuildinfo",
+      "lib": [
+        "lib.es2015.d.ts"
+      ],
+      "composite": true,
+      "baseUrl": "/Users/jspiker/repos/jspiker-so-vscode-baseurl/out/",
+      "paths": {
+        "*": [
+          "*",
+          "../common/node_modules/*"
+        ]
+      },
+      "configFilePath": "/Users/jspiker/repos/jspiker-so-vscode-baseurl/common/tsconfig.json"
+    },
+    "referencedMap": {
+      "/users/jspiker/repos/jspiker-so-vscode-baseurl/node_modules/@types/node/inspector.d.ts": [
+        "/users/jspiker/repos/jspiker-so-vscode-baseurl/node_modules/@types/node/index.d.ts"
+      ],
+      "/users/jspiker/repos/jspiker-so-vscode-baseurl/node_modules/@types/node/index.d.ts": [
+        "/users/jspiker/repos/jspiker-so-vscode-baseurl/node_modules/@types/node/index.d.ts",
+        "/users/jspiker/repos/jspiker-so-vscode-baseurl/node_modules/@types/node/inspector.d.ts"
+      ]
+    },
+    "exportedModulesMap": {
+      "/users/jspiker/repos/jspiker-so-vscode-baseurl/node_modules/@types/node/inspector.d.ts": [
+        "/users/jspiker/repos/jspiker-so-vscode-baseurl/node_modules/@types/node/index.d.ts"
+      ],
+      "/users/jspiker/repos/jspiker-so-vscode-baseurl/node_modules/@types/node/index.d.ts": [
+        "/users/jspiker/repos/jspiker-so-vscode-baseurl/node_modules/@types/node/index.d.ts",
+        "/users/jspiker/repos/jspiker-so-vscode-baseurl/node_modules/@types/node/inspector.d.ts"
+      ]
+    },
+    "semanticDiagnosticsPerFile": [
+      "/users/jspiker/repos/jspiker-so-vscode-baseurl/node_modules/typescript/lib/lib.es5.d.ts",
+      "/users/jspiker/repos/jspiker-so-vscode-baseurl/node_modules/typescript/lib/lib.es2015.d.ts",
+      "/users/jspiker/repos/jspiker-so-vscode-baseurl/node_modules/typescript/lib/lib.es2015.core.d.ts",
+      "/users/jspiker/repos/jspiker-so-vscode-baseurl/node_modules/typescript/lib/lib.es2015.collection.d.ts",
+      "/users/jspiker/repos/jspiker-so-vscode-baseurl/node_modules/typescript/lib/lib.es2015.generator.d.ts",
+      "/users/jspiker/repos/jspiker-so-vscode-baseurl/node_modules/typescript/lib/lib.es2015.iterable.d.ts",
+      "/users/jspiker/repos/jspiker-so-vscode-baseurl/node_modules/typescript/lib/lib.es2015.promise.d.ts",
+      "/users/jspiker/repos/jspiker-so-vscode-baseurl/node_modules/typescript/lib/lib.es2015.proxy.d.ts",
+      "/users/jspiker/repos/jspiker-so-vscode-baseurl/node_modules/typescript/lib/lib.es2015.reflect.d.ts",
+      "/users/jspiker/repos/jspiker-so-vscode-baseurl/node_modules/typescript/lib/lib.es2015.symbol.d.ts",
+      "/users/jspiker/repos/jspiker-so-vscode-baseurl/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts",
+      "/users/jspiker/repos/jspiker-so-vscode-baseurl/common/src/commonfile.ts",
+      "/users/jspiker/repos/jspiker-so-vscode-baseurl/node_modules/@types/node/inspector.d.ts",
+      "/users/jspiker/repos/jspiker-so-vscode-baseurl/node_modules/@types/node/index.d.ts"
+    ]
+  },
+  "version": "3.4.1"
+}
